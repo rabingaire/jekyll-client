@@ -1,0 +1,19 @@
+{
+  "name": "jekyll-client",
+  "version": "1.0.0",
+  "description": "Desktop Client for Jekyll to upload new posts.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabingaire/jekyll-client.git"
+  },
+  "author": "Rabin Gaire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rabingaire/jekyll-client/issues"
+  },
+  "homepage": "https://github.com/rabingaire/jekyll-client#readme"
+}
